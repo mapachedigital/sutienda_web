@@ -1,3 +1,5 @@
 <Solution>
+  <Project Path="../MDWidgets/MDMessaging/MDMessaging.csproj" />
+  <Project Path="MDWidgets/MDWidgets/MDWidgets.csproj" />
   <Project Path="SuTienda/SuTienda.csproj" />
 </Solution>
